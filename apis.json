@@ -1,0 +1,69 @@
+{
+    "name": "ReadSpeaker",
+    "description": "Text to speech for online & offline content of websites, apps, e-Books, e-Learning, telephony & transport systems, media, robotics, embedded devices, IoT & more.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/2078-readspeaker.jpg",
+    "tags": [
+        "conversions",
+        "have api",
+        "netherlands"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/readspeaker\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "ReadSpeaker",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/2078-readspeaker.jpg",
+            "humanURL": "http:\/\/www.readspeaker.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/readspeaker-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/www.readspeaker.com\/blog"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/www.readspeaker.com\/category\/blog\/feed\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/readspeaker"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/readspeaker"
+        },
+        {
+            "type": "Email",
+            "url": "unitedstates@readspeaker.com"
+        },
+        {
+            "type": "Email",
+            "url": "info@readspeaker.com"
+        },
+        {
+            "type": "Pricing",
+            "url": "http:\/\/www.readspeaker.com\/pricing\/"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/ReadSpeaker"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.readspeaker.com\/"
+        }
+    ]
+}
